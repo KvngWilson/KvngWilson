@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## GitHub Stats
 
-![KvngWilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=KvngWilson&show_icons=true&theme=radical)
+![KvngWilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=KvngWilson&show_icons=true&bg_color=00000000)
 
 ## Top Languages
 
