@@ -1,4 +1,4 @@
-# Hi there, I'm KvngWilson 👋
+# Hi there, I'm Wilson 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a bit about me:
 
@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## GitHub Stats
 
-![KvngWilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=KvngWilson&show_icons=true&bg_color=00000000)
+[![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=KvngWilson)](https://github.com/KvngWilson/github-readme-stats)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KvngWilson&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KvngWilson&layout=pie)](https://github.com/KvngWilson/github-readme-stats)
 
 ## Connect with Me
 
