@@ -11,8 +11,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## My Skills
 
 - **Languages:** HTML, CSS, Javascript, Python
-- **Frameworks & Libraries:** React.js, Django, Node.js
-- **Tools & Platforms:** Vercel, Render
+- **Frameworks & Libraries:** React.js, Django, Node.js, Express
+- **Databases: **PostgreSQL, Redis
+- **Tools & Platforms:** Docker, Vercel, Render, Nginx, Apache
 
 ## GitHub Stats
 
