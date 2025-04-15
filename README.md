@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 - **Languages:** HTML, CSS, Javascript, Python
 - **Frameworks & Libraries:** React.js, Django, Node.js, Express
-- **Databases: **PostgreSQL, Redis
+- **Databases:** PostgreSQL, Redis
 - **Tools & Platforms:** Docker, Vercel, Render, Nginx, Apache
 
 ## GitHub Stats
