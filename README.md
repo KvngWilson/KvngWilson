@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## GitHub Stats
 
-[![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=KvngWilson)](https://github.com/KvngWilson/github-readme-stats)
+[![Wilson's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=KvngWilson&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/KvngWilson/github-readme-stats-fast)
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KvngWilson&layout=pie)](https://github.com/KvngWilson/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KvngWilson&layout=compact)](https://github.com/KvngWilson/github-readme-stats-fast)
 
 ## Connect with Me
 
